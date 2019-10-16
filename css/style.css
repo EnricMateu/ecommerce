@@ -1,0 +1,22 @@
+.itemImage {
+    max-width: 100px;
+}
+
+.modal{
+    position: absolute;
+    width: 80vw;
+    height: 80vh;
+    background-color: white;
+    z-index: 2;
+    top: 0;
+    left: 0;
+}
+
+.imageModal{
+    max-width: 200px;
+}
+
+
+body{
+    background-color: red;
+}
